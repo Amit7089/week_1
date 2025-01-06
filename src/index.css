@@ -81,3 +81,16 @@ body{
 
 .MuiTabs-indicator{background-color: #ff5252 !important;}
 .MuiTab-textColorPrimary.Mui-selected{color:#ff5252 !important}
+
+.btn-org{
+  background-color: #ff5252 !important;
+  color: #fff !important;
+  font-weight: 500;
+  font-size: 16px;
+  width: 100px;
+}
+
+.MuiCheckbox-root{
+  padding: 8px !important;
+}
+

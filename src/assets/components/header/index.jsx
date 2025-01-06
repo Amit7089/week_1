@@ -58,7 +58,7 @@ const Header = () => {
             <ul className="flex gap-3">
               <li className="list-none">
                 <Link to="/login" className="link transition hover:text-red-500 text-[17px]">
-                  Login
+                  Login 
                 </Link>
                 /&nbsp;
                 <Link to="/register" className="link transition hover:text-red-500 text-[15px]">
